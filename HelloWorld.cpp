@@ -3,6 +3,7 @@
 using namespace std;
 
 int main(){
-    cout << "Hello Youtube!" << endl;
+    cout << "Hello World!" << endl;
+    cout << "Hello Youtube 2!" << endl;
     return 0;
 }
